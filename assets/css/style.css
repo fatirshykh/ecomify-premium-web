@@ -196,6 +196,11 @@ p {
   font-size: 1.05rem;
   font-weight: 900;
   box-shadow: 0 9px 28px rgba(255, 122, 0, 0.28);
+  content: " ";
+  background-image: url(/assets/images/logob.jpeg);
+  background-size: 80% 80%;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .nav-links {
   display: flex;
